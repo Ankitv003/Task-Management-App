@@ -1,6 +1,6 @@
-# Markdown Task Manager
+# Task Manager
 
-Markdown Task Manager is a simple application built using React and Firebase to manage your tasks using markdown formatting.
+ Task Manager is a simple application built using React and Firebase to manage your tasks using markdown formatting.
 
 ## Table of Contents
 
