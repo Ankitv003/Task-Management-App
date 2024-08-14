@@ -7,7 +7,7 @@
     "react-mde": "11.5.0",
     "react-split": "2.0.13",
     "showdown": "1.9.1",
-    "firebase": "9.20.0"
+    "firebase": "10.12.5"
   },
   "devDependencies": {
     "vite": "latest",
